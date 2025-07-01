@@ -4,7 +4,11 @@
 
 This hybrid approach ensures accurate and context-rich results, blending AI-generated content with factual encyclopedic summaries.
 
-![Amboozepedia Banner](banner.png) <!-- Optional: Replace with your own image or delete this line -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/707e1a33-2ed8-44f2-9b51-149cfa18c85a" width="300" alt="Main UI">
+</p>
+
+
 
 ---
 
@@ -23,10 +27,30 @@ This hybrid approach ensures accurate and context-rich results, blending AI-gene
 ## 🖥️ Screenshots
 
 <!-- You can include screenshots like this if you want -->
+
+<h2 align="center">Graphical User Interface</h2> 
 <p align="center">
-  <img src="screenshots/main_ui.png" width="800" alt="Main UI">
-  <br><br>
-  <img src="screenshots/chat_result.png" width="800" alt="ChatGPT Result">
+<img src="https://github.com/user-attachments/assets/68b4fcc0-8f03-40f9-84aa-1390e31c1b02" width="800" alt="Main UI">
+
+</p>
+<h2 align="center">Search Result View: </h2>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/bdeb63fd-7e47-4ee4-897b-59dabd27c087" width="800" alt="ChatGPT Result">
+</p>
+
+<h2 align="center">Enable Mode: </h2>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/a0a48bcb-af0a-4c02-9386-911343838279" width="800" alt="ChatGPT Result">
+</p>
+
+<h2 align="center">Disable Mode: </h2>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/af168d59-aaa2-4d69-90bc-0fea77082012" width="800" alt="ChatGPT Result">
+</p>
+
+<h2 align="center">Clear Mode: </h2>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/da72f9e6-958e-4bda-921a-e9edf4e2ff08" width="800" alt="ChatGPT Result">
 </p>
 
 ---
