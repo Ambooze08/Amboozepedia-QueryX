@@ -93,7 +93,7 @@ pip install openai wikipedia
 ## 🛠️ Run the App
 
 ```bash
-python main.py
+python amboozepedia.py
 ```
 
 - 💡 Make sure to replace "sk-..." in the code with your actual OpenAI API key.
@@ -119,7 +119,7 @@ openai.api_key = "sk-YourRealAPIKeyHere"
 ```bash
 Amboozepedia-QueryX/
 │
-├── main.py                # Main application file
+├── amboozepedia.py                # Main application file
 ├── amboozepedia_icon.ico  # App icon
 ├── README.md              # You're reading it
 ├── requirements.txt       # Optional: List of dependencies
