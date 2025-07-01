@@ -62,13 +62,15 @@ Install the required Python libraries:
 
 ```bash
 pip install openai wikipedia
+```
 
 ---
+
 ## 🛠️ Run the App
 
 ```bash
-
 python main.py
+```
 
 - 💡 Make sure to replace "sk-..." in the code with your actual OpenAI API key.
 
@@ -76,12 +78,13 @@ python main.py
 
 ##🔐 OpenAI API Setup
 
-1 Go to https://platform.openai.com/account/api-keys
-2 Generate a new API key.
-3 Replace the placeholder key in main.py:
+1. Go to https://platform.openai.com/account/api-keys
+2. Generate a new API key.
+3. Replace the placeholder key in main.py:
 
 ```bash
 openai.api_key = "sk-YourRealAPIKeyHere"
+```
 
 ✅ For production use, store the API key as an environment variable.
 
@@ -97,36 +100,30 @@ Amboozepedia-QueryX/
 ├── README.md              # You're reading it
 ├── requirements.txt       # Optional: List of dependencies
 └── screenshots/           # App screenshots (optional)
+```
+
 ---
+
 ## 🔧 Packaging as .exe (Optional)
+
 To convert your app to an executable (Windows):
 
 ```bash
 pip install pyinstaller
 pyinstaller --noconfirm --onefile --windowed --icon=amboozepedia_icon.ico main.py
-
-Output will be in the /dist directory.
-
+```
+- Output will be in the /dist directory.
 
 ---
 
 ## 🛡 License
-This project is licensed under the MIT License — see the LICENSE file for details.
+
+- This project is licensed under the MIT License — see the LICENSE file for details.
 
 ## 💬 Feedback & Contribution
-Pull requests are welcome! For major changes, please open an issue first to discuss what you'd like to change.
 
-If you find a bug or want to request a feature, feel free to open an issue.
+- Pull requests are welcome! For major changes, please open an issue first to discuss what you'd like to change.
+- If you find a bug or want to request a feature, feel free to open an issue.
 
 ## ⚡ “Knowledge is power — make it intelligent.” – Amboozepedia
-
----
-
-### ✅ Pro Tips:
-
-- Replace all placeholder links like `yourusername`, `yourprofile`, `yourhandle`, and image paths.
-- Add screenshots to a `/screenshots` folder and reference them.
-- Keep your API key **secure** in public repos. Consider using `.env` files and `python-dotenv`.
-
-Would you like me to generate a `requirements.txt` or `.env`-based secure version of your app as well?
 
